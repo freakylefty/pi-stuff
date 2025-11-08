@@ -38,6 +38,7 @@ Not really Raspberry PI related, but a component of the TelePI project below tha
 ### TelePi
 
 > Sense HAT
+> 
 > Speakers
 
 Included here without code for now.  This was a long project to make what my children called 'the cursed computer'.  I set up Telegram integration so I could control an app via text.  It included:
